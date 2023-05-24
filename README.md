@@ -4,7 +4,9 @@ Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , M
 
 ## Python Crash Course
 
-## Python for Data Analysis
+## Python for Data Analysis - Numpy
+
+## Python for Data Analysis - Pandas
 
 ## Python for Data Visualization - Matplotlib
 
