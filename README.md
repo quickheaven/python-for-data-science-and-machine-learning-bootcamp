@@ -6,6 +6,10 @@ Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , M
 
 ## Python for Data Analysis - Numpy
 
+```
+import numpy as np
+```
+
 ## Python for Data Analysis - Pandas
 
 ## Python for Data Visualization - Matplotlib
